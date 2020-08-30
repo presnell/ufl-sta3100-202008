@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plot | STA 3100</title>
-    <link>/brettpresnell.com/ufl-sta3100-202008/tag/plot/</link>
-      <atom:link href="/brettpresnell.com/ufl-sta3100-202008/tag/plot/index.xml" rel="self" type="application/rss+xml" />
+    <link>/ufl-sta3100-202008/tag/plot/</link>
+      <atom:link href="/ufl-sta3100-202008/tag/plot/index.xml" rel="self" type="application/rss+xml" />
     <description>plot</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>/brettpresnell.com/ufl-sta3100-202008/images/icon_hu80eeec5b7631200ca7b388ae8cc10e3e_17874_512x512_fill_lanczos_center_2.png</url>
+      <url>/ufl-sta3100-202008/images/icon_hu80eeec5b7631200ca7b388ae8cc10e3e_17874_512x512_fill_lanczos_center_2.png</url>
       <title>plot</title>
-      <link>/brettpresnell.com/ufl-sta3100-202008/tag/plot/</link>
+      <link>/ufl-sta3100-202008/tag/plot/</link>
     </image>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/brettpresnell.com/ufl-sta3100-202008/post/2015-07-23-r-rmarkdown/</link>
+      <link>/ufl-sta3100-202008/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/brettpresnell.com/ufl-sta3100-202008/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/ufl-sta3100-202008/post/2015-07-23-r-rmarkdown/</guid>
       <description>
-&lt;script src=&#34;/brettpresnell.com/ufl-sta3100-202008/brettpresnell.com/ufl-sta3100-202008/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/ufl-sta3100-202008/ufl-sta3100-202008/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
@@ -54,7 +54,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/brettpresnell.com/ufl-sta3100-202008/brettpresnell.com/ufl-sta3100-202008/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/ufl-sta3100-202008/ufl-sta3100-202008/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;

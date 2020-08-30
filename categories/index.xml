@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | STA 3100</title>
-    <link>/brettpresnell.com/ufl-sta3100-202008/categories/</link>
-      <atom:link href="/brettpresnell.com/ufl-sta3100-202008/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/ufl-sta3100-202008/categories/</link>
+      <atom:link href="/ufl-sta3100-202008/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/brettpresnell.com/ufl-sta3100-202008/images/icon_hu80eeec5b7631200ca7b388ae8cc10e3e_17874_512x512_fill_lanczos_center_2.png</url>
+      <url>/ufl-sta3100-202008/images/icon_hu80eeec5b7631200ca7b388ae8cc10e3e_17874_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>/brettpresnell.com/ufl-sta3100-202008/categories/</link>
+      <link>/ufl-sta3100-202008/categories/</link>
     </image>
     
   </channel>

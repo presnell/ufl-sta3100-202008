@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | STA 3100</title>
-    <link>/brettpresnell.com/ufl-sta3100-202008/talk/</link>
-      <atom:link href="/brettpresnell.com/ufl-sta3100-202008/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/ufl-sta3100-202008/talk/</link>
+      <atom:link href="/ufl-sta3100-202008/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/brettpresnell.com/ufl-sta3100-202008/images/icon_hu80eeec5b7631200ca7b388ae8cc10e3e_17874_512x512_fill_lanczos_center_2.png</url>
+      <url>/ufl-sta3100-202008/images/icon_hu80eeec5b7631200ca7b388ae8cc10e3e_17874_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/brettpresnell.com/ufl-sta3100-202008/talk/</link>
+      <link>/ufl-sta3100-202008/talk/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>/brettpresnell.com/ufl-sta3100-202008/talk/example/</link>
+      <link>/ufl-sta3100-202008/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/brettpresnell.com/ufl-sta3100-202008/talk/example/</guid>
+      <guid>/ufl-sta3100-202008/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
